@@ -1,0 +1,22 @@
+{
+  "id": "비스무트_-3395-70-5762",
+  "name": "비스무트",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7160240-waypoint-icon.png",
+  "x": -3395,
+  "y": 70,
+  "z": 5762,
+  "r": 146,
+  "g": 190,
+  "b": 80,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

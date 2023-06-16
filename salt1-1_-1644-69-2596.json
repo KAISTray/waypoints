@@ -1,0 +1,22 @@
+{
+  "id": "salt1-1_-1644-69-2596",
+  "name": "salt1 1",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--65794-waypoint-icon.png",
+  "x": -1644,
+  "y": 69,
+  "z": 2596,
+  "r": 254,
+  "g": 254,
+  "b": 254,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

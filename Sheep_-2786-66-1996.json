@@ -1,0 +1,22 @@
+{
+  "id": "Sheep_-2786-66-1996",
+  "name": "Sheep",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--2960686-waypoint-icon.png",
+  "x": -2786,
+  "y": 66,
+  "z": 1996,
+  "r": 210,
+  "g": 210,
+  "b": 210,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

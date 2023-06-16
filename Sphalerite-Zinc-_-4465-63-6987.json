@@ -1,0 +1,22 @@
+{
+  "id": "Sphalerite-Zinc-_-4465-63-6987",
+  "name": "Sphalerite (Zinc)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8361399-waypoint-icon.png",
+  "x": -4465,
+  "y": 63,
+  "z": 6987,
+  "r": 128,
+  "g": 106,
+  "b": 73,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -8361399,
+  "customIconColor": false
+}

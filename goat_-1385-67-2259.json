@@ -1,0 +1,22 @@
+{
+  "id": "goat_-1385-67-2259",
+  "name": "goat",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--4207288-waypoint-icon.png",
+  "x": -1385,
+  "y": 67,
+  "z": 2259,
+  "r": 191,
+  "g": 205,
+  "b": 72,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

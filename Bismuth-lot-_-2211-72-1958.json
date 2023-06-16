@@ -1,0 +1,22 @@
+{
+  "id": "Bismuth-lot-_-2211-72-1958",
+  "name": "Bismuth (lot)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9209029-waypoint-icon.png",
+  "x": -2211,
+  "y": 72,
+  "z": 1958,
+  "r": 115,
+  "g": 123,
+  "b": 59,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "red-dessert-shale-_-1546-73-2479",
+  "name": "red dessert (shale)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--130964-waypoint-icon.png",
+  "x": -1546,
+  "y": 73,
+  "z": 2479,
+  "r": 254,
+  "g": 0,
+  "b": 108,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

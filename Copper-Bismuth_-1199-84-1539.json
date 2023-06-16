@@ -1,0 +1,22 @@
+{
+  "id": "Copper-Bismuth_-1199-84-1539",
+  "name": "Copper \u0026 Bismuth",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16763907-waypoint-icon.png",
+  "x": -1199,
+  "y": 84,
+  "z": 1539,
+  "r": 0,
+  "g": 51,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

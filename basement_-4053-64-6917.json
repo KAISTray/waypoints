@@ -1,0 +1,22 @@
+{
+  "id": "basement_-4053-64-6917",
+  "name": "basement",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1166226-waypoint-icon.png",
+  "x": -4053,
+  "y": 64,
+  "z": 6917,
+  "r": 238,
+  "g": 52,
+  "b": 110,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

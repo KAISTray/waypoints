@@ -1,0 +1,22 @@
+{
+  "id": "horse_-1257-70-1693",
+  "name": "horse",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--2666481-waypoint-icon.png",
+  "x": -1257,
+  "y": 70,
+  "z": 1693,
+  "r": 215,
+  "g": 80,
+  "b": 15,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

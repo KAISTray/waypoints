@@ -1,0 +1,22 @@
+{
+  "id": "Bismuth-Dolomite_-2444-69-6711",
+  "name": "Bismuth, Dolomite",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8558561-waypoint-icon.png",
+  "x": -2444,
+  "y": 69,
+  "z": 6711,
+  "r": 125,
+  "g": 104,
+  "b": 31,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -8558561,
+  "customIconColor": false
+}

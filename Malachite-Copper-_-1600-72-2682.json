@@ -1,0 +1,22 @@
+{
+  "id": "Malachite-Copper-_-1600-72-2682",
+  "name": "Malachite (Copper)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9916541-waypoint-icon.png",
+  "x": -1600,
+  "y": 72,
+  "z": 2682,
+  "r": 104,
+  "g": 175,
+  "b": 131,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

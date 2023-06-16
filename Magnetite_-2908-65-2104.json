@@ -1,0 +1,22 @@
+{
+  "id": "Magnetite_-2908-65-2104",
+  "name": "Magnetite",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13391171-waypoint-icon.png",
+  "x": -2908,
+  "y": 65,
+  "z": 2104,
+  "r": 51,
+  "g": 170,
+  "b": 189,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

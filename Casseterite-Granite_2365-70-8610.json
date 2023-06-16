@@ -1,0 +1,22 @@
+{
+  "id": "Casseterite-Granite_2365-70-8610",
+  "name": "Casseterite, Granite",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7744236-waypoint-icon.png",
+  "x": 2365,
+  "y": 70,
+  "z": 8610,
+  "r": 137,
+  "g": 213,
+  "b": 20,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -7744236,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Tetrahydrite-Phylite-Deep_-4543-63-6978",
+  "name": "Tetrahydrite, Phylite, Deep",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--2967217-waypoint-icon.png",
+  "x": -4543,
+  "y": 63,
+  "z": 6978,
+  "r": 210,
+  "g": 185,
+  "b": 79,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

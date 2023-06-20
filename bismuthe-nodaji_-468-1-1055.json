@@ -1,0 +1,22 @@
+{
+  "id": "bismuthe-nodaji_-468-1-1055",
+  "name": "bismuthe nodaji",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16281853-waypoint-icon.png",
+  "x": -468,
+  "y": -1,
+  "z": 1055,
+  "r": 7,
+  "g": 143,
+  "b": 3,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

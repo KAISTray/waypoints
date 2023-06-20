@@ -1,0 +1,22 @@
+{
+  "id": "near-Kaolinite-with-Halite-and-saltpeter_-5598-43-5462",
+  "name": "near Kaolinite with Halite and saltpeter",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12185707-waypoint-icon.png",
+  "x": -5598,
+  "y": 43,
+  "z": 5462,
+  "r": 70,
+  "g": 15,
+  "b": 149,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -12185707,
+  "customIconColor": false
+}

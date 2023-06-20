@@ -1,0 +1,22 @@
+{
+  "id": "Nearest-upper-cave-of-graphite_-2027-32-6163",
+  "name": "Nearest upper cave of graphite",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8872414-waypoint-icon.png",
+  "x": -2027,
+  "y": 32,
+  "z": 6163,
+  "r": 120,
+  "g": 158,
+  "b": 34,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -8872414,
+  "customIconColor": false
+}

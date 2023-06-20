@@ -1,0 +1,22 @@
+{
+  "id": "emerald-2_-5615-6-5453",
+  "name": "emerald 2",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--11492099-waypoint-icon.png",
+  "x": -5615,
+  "y": 6,
+  "z": 5453,
+  "r": 80,
+  "g": 164,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

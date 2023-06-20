@@ -1,0 +1,22 @@
+{
+  "id": "graphite_-2014-7-6167",
+  "name": "graphite",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9748807-waypoint-icon.png",
+  "x": -2014,
+  "y": 7,
+  "z": 6167,
+  "r": 107,
+  "g": 62,
+  "b": 185,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -2397465,
+  "customIconColor": false
+}

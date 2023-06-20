@@ -1,0 +1,22 @@
+{
+  "id": "gold-nodaji-_-216-13-793",
+  "name": "gold(nodaji)",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7107578-waypoint-icon.png",
+  "x": -216,
+  "y": -13,
+  "z": 793,
+  "r": 147,
+  "g": 140,
+  "b": 6,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
